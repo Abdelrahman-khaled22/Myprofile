@@ -34,6 +34,9 @@ const Header = () => {
               <li>
                 <a href='#resume'>resume</a>
               </li>
+              <li>
+                <a href='#contact'>Contact</a>
+              </li>
               
               <li>
                 <button className='home-btn'>BUY NOW</button>
